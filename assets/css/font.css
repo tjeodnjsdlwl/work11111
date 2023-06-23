@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'Suisseintl' ;
+    src: url(../font/SuisseIntl-Regular.otf);
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'Suisseintl' ;
+    src: url(../font/SuisseIntl-SemiBold.otf);
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: 'Tobias' ;
+    src: url(../font/Tobias-Light.woff);
+    font-weight: 400;
+}
